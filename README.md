@@ -1,2 +1,2 @@
-# competitive-programming
+# CodeForces
 Solutions codeforces Problem.
